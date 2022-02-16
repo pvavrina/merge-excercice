@@ -5,4 +5,3 @@ comporte une petite coiffe de velours qui changeait de couleur selon l'âge et l
 vert pour les femmes mariées, et noire pour les veuves. Dès que Git trouve un commit de base commun, il crée un « commit de merge » qui combine les
 Il n'est donc pas étonnant que la grand-mère ait coiffé ainsi sa petite-fille
 vert pour les femmes mariées, et noire pour les veuves. Il n'est donc pas étonnant que la grand-mère ait coiffé ainsi sa petite-fille
-
